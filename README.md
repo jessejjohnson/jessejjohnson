@@ -1,3 +1,3 @@
-### 👋 Hi, I'm Jesse
+### I'm Jesse
 
-Currently architecting and maintaining web scraping technology performing 25M+ scrapes daily, over 5M+ million unique URLs, and 35k+ domains around the globe.
+Currently architecting web scraping technology performing 25M+ daily scrapes, over 5M million unique URLs, across 35k+ global domains.
