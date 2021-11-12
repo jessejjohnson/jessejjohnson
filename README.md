@@ -1,1 +1,1 @@
-Currently architecting web scraping technology performing 25M+ daily scrapes, over 5M million unique URLs, across 35k+ global domains.
+A **father**, **husband**, and **software developer** typically playing with the .NET Platform but have lately been exploring foreign territories.
